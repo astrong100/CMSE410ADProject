@@ -4,4 +4,4 @@ The FLAMINGO folder contains all of the chromatin positional datasets for the 5k
 
 The datset for GWAS interactions was too large to be included so it was unfortunately unable to be included
 
-The primary analysis is in CMSE410Project.ipynb and additional analysis of Manhatten Plots and preliminary datset investigations are in gwasAnalytsis.ipynb
+The primary analysis is in CMSE410Project.ipynb and additional analysis of Manhatten Plots and preliminary datset investigations are in gwasAnalysis.ipynb
